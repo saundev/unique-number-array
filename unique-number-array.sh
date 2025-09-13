@@ -21,6 +21,7 @@ games[megamillions]="5 1 70 25"
 games[powerball]="5 1 69 26"
 games[superenalotto]="6 0 90 0"
 games[thunderball]="5 1 39 14"
+games[setforlife]="5 1 47 10"
 games[custom]="${2:-6} ${3:-0} ${4:-59} ${5:-0}"
 # Custom profile with optional parameters - Which defaults to Lotto if no profile or parameters provided
 
