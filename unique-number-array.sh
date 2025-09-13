@@ -15,7 +15,7 @@
 declare -A games
 games[euromillions]="5 2 50 12"
 games[eurohotpicks]="5 0 50 0"
-games[hotpicks]="7 0 49 0"
+games[hotpicks]="5 0 59 0"
 games[lotto]="6 0 59 0"
 games[megamillions]="5 1 70 25"
 games[powerball]="5 1 69 26"
